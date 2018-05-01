@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marker_text_size">15dp</dimen>
+    <dimen name="badge_heigth_width_newsmap">20dp</dimen>
+    <dimen name="marker_cluster_count_text_size">10dp</dimen>
+</resources>
